@@ -169,33 +169,43 @@ giftBox.addEventListener("mouseleave",()=>{
 // Gift Click → Letter
 // ======================================
 
-const birthdayLetter = `Dear Sowju ❤️,
+const birthdayLetter = `Hello Sowju ❤️,
 
-Happy 24th Birthday!
+By the time you're reading this, you'll probably be with your family, celebrating your birthday.
 
-Today is all about celebrating you.
+I really wanted you to be here with me for this birthday, but it would have been so selfish of me to keep you away from celebrating with your twin sister and your family.
 
-Thank you for filling my life with happiness,
-love and countless beautiful memories.
+So today, consider this more of a thank-you letter than a birthday note.
 
-Your smile makes my worst days better.
+Thank you for coming into my life.
 
-Your laugh is my favourite sound.
+Thank you for showing me a way when I couldn't see one.
 
-Your happiness means everything to me.
+Thank you for standing beside me during my toughest times.
 
-I hope this year brings you endless success,
-good health, peace and dreams coming true.
+Thank you for staying with me when I felt like I was nothing.
 
-Always remember...
+Thank you for motivating me to become a better person.
 
-No matter what happens,
-I'll always be cheering for you.
+Thank you for criticizing me whenever I was wrong.
 
-Happy Birthday once again ❤️
+Thank you for becoming my comfort zone.
 
-Love,
-Yours ❤️`;
+Thank you for making me realize that even I deserve to be loved.
+
+Thank you for tolerating all my nonsense.
+
+Thank you for believing in me even when I couldn't believe in myself.
+
+And finally...
+
+Thank you for making my life colourful.
+
+I hope next year we celebrate your birthday together.
+
+Happy Birthday...
+~~Sowju~~
+My Sowju. ❤️`;
 
 giftBox.addEventListener("click", () => {
 
