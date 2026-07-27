@@ -494,7 +494,7 @@ const celebrateBtn = document.getElementById("celebrateBtn");
 
 celebrateBtn.addEventListener("click",()=>{
 
-    celebrateBtn.innerHTML="😉 Let's Meet";
+    celebrateBtn.innerHTML="😉 Let's Meet tomorrow";
 
     celebrateBtn.disabled = true;
 
