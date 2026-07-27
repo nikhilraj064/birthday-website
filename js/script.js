@@ -494,7 +494,9 @@ const celebrateBtn = document.getElementById("celebrateBtn");
 
 celebrateBtn.addEventListener("click",()=>{
 
-    celebrateBtn.innerHTML="🎉 Happy Birthday SOWJU ❤️ 🎉";
+    celebrateBtn.innerHTML="😉 Let's Meet";
+
+    celebrateBtn.disabled = true;
 
     launchConfetti();
 
